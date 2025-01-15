@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Exo+2:ital,wght@0,100..900;1,100..900&family=League+Spartan:wght@100..900&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Outfit:wght@100..900&display=swap');
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-size: 15px;
+    font-family: Outfit;
+    background: hsl(212, 45%, 89%)
+}
+
+.wrapper {
+    width: 1440px;
+    max-width: 100%;
+    width: 320px;
+    margin: 200px auto;
+    padding: 20px;
+    background: #fff;
+    border-radius: 12px;
+}
+
+.qr-code img {
+    border-radius: 9px;
+}
+
+h2 {
+    font-family: "Outfit";
+    color: hsl(218, 44%, 22%);
+    font-weight: bold;
+    text-align: center;
+    width: 300px;
+}
+
+p {
+    text-align: center;
+    width: 290px;
+    padding-bottom: 20px;
+}
