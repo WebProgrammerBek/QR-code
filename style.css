@@ -5,33 +5,15 @@ body {
     box-sizing: border-box;
     font-size: 15px;
     font-family: Outfit;
+    width: 1440px;
+    max-width: 100%;
     background: hsl(212, 45%, 89%)
 }
 
-.wrapper {
-    width: 1440px;
-    max-width: 100%;
+.card {
     width: 320px;
-    margin: 200px auto;
-    padding: 20px;
+    height: 499px;
     background: #fff;
-    border-radius: 12px;
-}
-
-.qr-code img {
-    border-radius: 9px;
-}
-
-h2 {
-    font-family: "Outfit";
-    color: hsl(218, 44%, 22%);
-    font-weight: bold;
-    text-align: center;
-    width: 300px;
-}
-
-p {
-    text-align: center;
-    width: 290px;
-    padding-bottom: 20px;
+    border-radius:16px;
+    padding: 16px;
 }
