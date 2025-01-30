@@ -16,4 +16,22 @@ body {
     background: #fff;
     border-radius:16px;
     padding: 16px;
+    margin: 230.5px auto;
+}
+
+.qr-code img {
+    border-radius: 10px;
+}
+
+h2 {
+    text-align: center;
+    padding: 0 16px;
+    margin-top: 24;
+    color: #1F314F;
+}
+
+p {
+    text-align: center;
+    padding: 0 16px;
+    color: #68778D;
 }
